@@ -56,10 +56,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthick-kk&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://img.shields.io/badge/Arctic_Code_Vault-Contributor-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Achievement-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Starstruck-Achievement-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/YOLO-Achievement-red?style=for-the-badge&logo=github" />
 </p>
 
 ---
