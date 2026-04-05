@@ -38,21 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=karthick-kk&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=karthick-kk&theme=tokyonight&hide_border=true" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats-karthick-kk.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=karthick-kk&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </picture>
+  <img width="40%" src="https://github-readme-stats-karthick-kk.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -75,34 +66,12 @@
 
 ### 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/karthick-kk/android_kernel_common_silvercore">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=android_kernel_common_silvercore&theme=tokyonight&hide_border=true" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=android_kernel_common_silvercore&theme=tokyonight&hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/karthick-kk/k8s-mutate-webhook-addca">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=k8s-mutate-webhook-addca&theme=tokyonight&hide_border=true" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=k8s-mutate-webhook-addca&theme=tokyonight&hide_border=true" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/karthick-kk/govuln-scanner">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=govuln-scanner&theme=tokyonight&hide_border=true" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=govuln-scanner&theme=tokyonight&hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/karthick-kk/terraform-aws">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=terraform-aws&theme=tokyonight&hide_border=true" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=terraform-aws&theme=tokyonight&hide_border=true" />
-    </picture>
-  </a>
-</p>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [android_kernel_common_silvercore](https://github.com/karthick-kk/android_kernel_common_silvercore) | Custom Android kernel | ⭐ 35 |
+| [k8s-mutate-webhook-addca](https://github.com/karthick-kk/k8s-mutate-webhook-addca) | K8s webhook to automount custom CAs | ⭐ 3 |
+| [govuln-scanner](https://github.com/karthick-kk/govuln-scanner) | Remote CIS scanner for Linux | ⭐ 1 |
+| [terraform-aws](https://github.com/karthick-kk/terraform-aws) | Terraform templates for AWS | - |
 
 ---
 
