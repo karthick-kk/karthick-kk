@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%A3+Hey%2C+I'm+Karthick!;DevOps+Engineer+%7C+Cloud+Architect;Kubernetes+%26+Infrastructure+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%A3+Hey%2C+I'm+Karthick!;DevOps+Engineer+%7C+Cloud+Architect;Kubernetes+%26+Infrastructure+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,12 +38,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthick-kk&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=karthick-kk&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=karthick-kk&theme=tokyonight&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </picture>
 </p>
 
 ---
@@ -59,7 +68,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthick-kk&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthick-kk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -68,18 +77,30 @@
 
 <p align="center">
   <a href="https://github.com/karthick-kk/android_kernel_common_silvercore">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=android_kernel_common_silvercore&theme=tokyonight&hide_border=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=android_kernel_common_silvercore&theme=tokyonight&hide_border=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=android_kernel_common_silvercore&theme=tokyonight&hide_border=true" />
+    </picture>
   </a>
   <a href="https://github.com/karthick-kk/k8s-mutate-webhook-addca">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=k8s-mutate-webhook-addca&theme=tokyonight&hide_border=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=k8s-mutate-webhook-addca&theme=tokyonight&hide_border=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=k8s-mutate-webhook-addca&theme=tokyonight&hide_border=true" />
+    </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/karthick-kk/govuln-scanner">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=govuln-scanner&theme=tokyonight&hide_border=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=govuln-scanner&theme=tokyonight&hide_border=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=govuln-scanner&theme=tokyonight&hide_border=true" />
+    </picture>
   </a>
   <a href="https://github.com/karthick-kk/terraform-aws">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=terraform-aws&theme=tokyonight&hide_border=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=terraform-aws&theme=tokyonight&hide_border=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karthick-kk&repo=terraform-aws&theme=tokyonight&hide_border=true" />
+    </picture>
   </a>
 </p>
 
