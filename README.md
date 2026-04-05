@@ -38,12 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-beta-three-24.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-beta-three-24.vercel.app/api?username=karthick-kk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" />
   <img width="49%" src="https://streak-stats.demolab.com?user=karthick-kk&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-beta-three-24.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-beta-three-24.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" />
 </p>
 
 ---
