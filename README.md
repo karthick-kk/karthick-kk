@@ -38,12 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-beta-three-24.vercel.app/api?username=karthick-kk&show_icons=true&theme=graywhite&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&text_color=9f9f9f&v=3" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=karthick-kk&theme=dark&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=9f9f9f&dates=9f9f9f&v=3" />
+  <img width="49%" src="https://github-readme-stats-beta-three-24.vercel.app/api?username=karthick-kk&show_icons=true&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&text_color=9f9f9f&bg_color=0d1117&v=4" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=karthick-kk&hide_border=true&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&sideNums=9f9f9f&v=4" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-beta-three-24.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&hide_border=true&title_color=E63946&text_color=9f9f9f&langs_count=8&v=3" />
+  <img width="40%" src="https://github-readme-stats-beta-three-24.vercel.app/api/top-langs/?username=karthick-kk&layout=compact&hide_border=true&title_color=E63946&text_color=9f9f9f&bg_color=0d1117&langs_count=8&v=4" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthick-kk&bg_color=1a1b27&color=9f9f9f&line=E63946&point=E63946&area_color=E63946&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthick-kk&bg_color=0d1117&color=9f9f9f&line=E63946&point=E63946&area_color=E63946&area=true&hide_border=true" />
 </p>
 
 ---
